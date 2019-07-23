@@ -1,4 +1,4 @@
-all: america
+.PHONY: america
 
 america: tramp
 	@echo '"Make America Great Again"'
